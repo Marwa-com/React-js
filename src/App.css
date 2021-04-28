@@ -4,36 +4,59 @@
   padding: 15px;
   
   background: url(tech.jpg);
- background-size: 100%;
+ background-size: 100% ;
  font-weight: 600;
 
 }
+
 h2{
   color: blue;
   margin-left: 50px;
+  margin-top: 95px;
+  background-color: sienna;
 }
-h4{
+h3{
   color: coral;
   margin-left: 50px;
 }
 #formBasicEmail{
   margin-left: 30px;
-  
+  margin-top: 20px;
+ 
 }
-
+.facebook{
+  width: 250px  !important;
+margin-left: 570px !important;
+height:25px  !important;
+margin-top: 20px !important;
+}
 
 #formBasicPassword{
   margin-top: 15px;
   margin-left: 10px;
+  margin-top: 25px;
 }
 button{
   margin-top: 15px;
   width: 177px;
   margin-left: 83px;
   background-color: burlywood;
+  margin-top: 25px ;
 }
 .c1,.c2{
   
   width: 177px;
   margin-left: 540px;
+  margin-top: 15px;
+}
+p{
+  font-weight:bold;
+  color:rgb(29, 3, 3);
+  font-size: large;
+  margin-left: 60px;
+  margin-top: 20px;
+}
+h4{
+  margin-left: 100px;
+  background-color: sienna;
 }
