@@ -1,0 +1,39 @@
+.App {
+ 
+  text-align: center;
+  padding: 15px;
+  
+  background: url(tech.jpg);
+ background-size: 100%;
+ font-weight: 600;
+
+}
+h2{
+  color: blue;
+  margin-left: 50px;
+}
+h4{
+  color: coral;
+  margin-left: 50px;
+}
+#formBasicEmail{
+  margin-left: 30px;
+  
+}
+
+
+#formBasicPassword{
+  margin-top: 15px;
+  margin-left: 10px;
+}
+button{
+  margin-top: 15px;
+  width: 177px;
+  margin-left: 83px;
+  background-color: burlywood;
+}
+.c1,.c2{
+  
+  width: 177px;
+  margin-left: 540px;
+}
